@@ -1,4 +1,4 @@
-# Semáforos
+ # Semáforos
 
 ## funcionamiento.py
 
